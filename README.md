@@ -9,7 +9,7 @@
 Я — начинающий тестировщик программного обеспечения с некоторым опытом работы с фронтендом. У меня есть пара проектов, опубликованных на GitHub, где я демонстрирую свои навыки программирования. Я увлечен тестированием и хочу использовать свои знания для создания качественных продуктов.
 
 - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:tcherepkovanthon@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/antoncher17)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/antoncher17)
 ---
 ### 🤝 Социальные сети:
 
