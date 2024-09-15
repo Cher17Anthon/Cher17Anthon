@@ -14,11 +14,11 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://t.me/antoncher17" target="_blank" style="text-decoration:none !important;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-     <a href="https://www.instagram.com/anton.cherepkov" target="_blank" style="text-decoration:none !important;">
+    <a href="https://www.instagram.com/anton.cherepkov" target="_blank">
       <img src="./assets/instagram.png" width="40" height="40" alt="telegram" />
+    </a>
+    <a href="https://t.me/antoncher17" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
 
