@@ -1,4 +1,4 @@
-[![Header width=100%](https://github.com/Cher17Anthon/Cher17Anthon/blob/main/assets/Screenshot_git_-transformed.png)](https://t.me/antoncher17)
+[![Header width=100%](https://github.com/Cher17Anthon/Cher17Anthon/blob/main/assets/computer-tablet_v%3D1700010337%26width%3D3840.jpg)](https://t.me/antoncher17)
 
 # Привет, меня зовут Антон!
 
